@@ -1,0 +1,6 @@
+#!/bin/sh
+
+cd sources/simp
+make r
+cp glucose_release ../../bin/glucose_release
+
